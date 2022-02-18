@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004519666358",
+    "project_id": "coinapp-9406e",
+    "storage_bucket": "coinapp-9406e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004519666358:android:e7848a3b28689da1a5ec17",
+        "android_client_info": {
+          "package_name": "com.jfluvy.freecoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004519666358-machjldhs5kjfu1bhh9en1e17g14ugmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRbc2OoJtlKiJqnAkc6w5AXC8n561uv-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004519666358-machjldhs5kjfu1bhh9en1e17g14ugmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
